@@ -1,0 +1,5 @@
+#Heroku Link
+https://rotten-potatoes-jd-edf2f3a4c3d7.herokuapp.com/movies
+
+#GitHub Repo Link
+https://github.com/JD-Radadiya/rotten-potatoes
